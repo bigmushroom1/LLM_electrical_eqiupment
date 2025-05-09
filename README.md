@@ -1,0 +1,3 @@
+# LLM_electrical_eqiupment
+研究生项目
+写这个项目主要的原因就是用来开源
